@@ -78,5 +78,6 @@ public static void main(String[] args) {
           }
 	
 	System.out.println("Buna, sunt Stefan, am facut un commit");
+	System.out.println("Dupa commitul lui Stefan");
 	}
 }
