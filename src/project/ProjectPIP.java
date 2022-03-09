@@ -1,5 +1,6 @@
 package project;
 import java.util.Random;
+import java.util.Vector;
 
 public class ProjectPIP {
 
@@ -79,5 +80,12 @@ public static void main(String[] args) {
 	
 	System.out.println("Buna, sunt Stefan, am facut un commit");
 	System.out.println("Dupa commitul lui Stefan");
+	Vector<Integer> vec = new Vector<Integer>();
+	vec.add(1);
+	vec.add(2);
+	
+	for (Integer i : vec){
+		System.out.println(i);
+	}
 	}
 }
