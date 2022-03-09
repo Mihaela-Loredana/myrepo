@@ -3,7 +3,7 @@
 ##PIP project in Java
 
 Collaborators:
-Mihaela-Loredana Ignat
+Mihaela-Loredana Ignat & 
 Stefan Stoleriu
 
 This repository is hosted at:
