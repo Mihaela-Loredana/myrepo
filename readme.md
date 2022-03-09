@@ -2,7 +2,9 @@
 
 ##PIP project in Java
 
-Loredana I.
+Collaborators:
+Mihaela-Loredana Ignat
+Stefan Stoleriu
 
 This repository is hosted at:
 
